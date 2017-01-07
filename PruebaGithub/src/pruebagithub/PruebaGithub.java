@@ -14,8 +14,17 @@ public class PruebaGithub {
     /**
      * @param args the command line arguments
      */
+    private int datos;
+
+    public int getDatos() {
+        return datos;
+    }
+
+    public void setDatos(int datos) {
+        this.datos = datos;
+    }
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola mundo");
     }
     
 }
