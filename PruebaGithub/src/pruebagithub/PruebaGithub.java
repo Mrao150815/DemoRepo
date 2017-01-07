@@ -24,7 +24,8 @@ public class PruebaGithub {
         this.datos = datos;
     }
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
+        System.out.println("Cambio estado");
+        
     }
     
 }
